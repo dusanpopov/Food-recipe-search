@@ -7,5 +7,4 @@ const Alert = ({alert}) => {
         </div>
     )
 }
-
 export default Alert;
